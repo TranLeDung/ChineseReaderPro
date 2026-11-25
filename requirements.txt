@@ -1,0 +1,8 @@
+streamlit
+edge-tts
+PyMuPDF
+python-docx
+ebooklib
+beautifulsoup4
+pypinyin
+deep-translator
